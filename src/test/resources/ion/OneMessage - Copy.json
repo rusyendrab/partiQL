@@ -1,0 +1,41 @@
+{'invoice':
+{
+    "InvoiceNumber": "85481837",
+    "CreatedTime": 1691453917263,
+    "StoreID": "STR7443",
+    "PosID": "POS411",
+    "CashierID": "OAS936",
+    "CustomerType": "NONPRIME",
+    "CustomerCardNo": "4369698403",
+    "TotalAmount": 5115.0,
+    "NumberOfItems": 2,
+    "PaymentMethod": "CARD",
+    "TaxableAmount": 5115.0,
+    "CGST": 127.875,
+    "SGST": 127.875,
+    "CESS": 6.39375,
+    "DeliveryType": "HOME-DELIVERY",
+    "DeliveryAddress": {
+        "AddressLine": "Flat No. #740-6953 Scelerisque Rd.",
+        "City": "Mango",
+        "State": "Jharkhand",
+        "PinCode": "697196",
+        "ContactNumber": "7172289826"
+    },
+    "InvoiceLineItems": [
+        {
+            "ItemCode": "318",
+            "ItemDescription": "Bofinger chair",
+            "ItemPrice": 1119.0,
+            "ItemQty": 1,
+            "TotalValue": 1119.0
+        },
+        {
+            "ItemCode": "348",
+            "ItemDescription": "Navy chair",
+            "ItemPrice": 1998.0,
+            "ItemQty": 2,
+            "TotalValue": 3996.0
+        }
+    ]
+}}
